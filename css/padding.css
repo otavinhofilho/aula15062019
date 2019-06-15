@@ -1,0 +1,11 @@
+body {
+    font-size: 32px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    text-align: justify;
+    width: 500px;
+    border: 3px double red;
+    background-color: yellow;
+    padding: 10px 5px 10px 5px;
+}

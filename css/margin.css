@@ -1,0 +1,33 @@
+body {
+    font-size: 32px;
+    margin: 0;
+}
+.frase1, .frase2, .frase3 {
+    text-align: justify;
+    width:500px;
+    padding: 20px;
+    border: 3px solid red;
+    background-color: yellow;
+}
+.frase1 {
+    margin: 50px 0 30px 300px;
+}
+.frase2 {
+    margin: 0 auto;
+}
+.quadro1 {
+    width: 270px;
+    height: 270px;
+    background-color: blue;
+    border: thick black dotted;
+    padding-left: 0px;
+    /*margin-left: 10px;*/
+}
+.quadro2 {
+    width: 120px;
+    height: 120px;
+    background-color: yellow;
+    border: thin black dashed;
+    margin-left: 150px;
+    /*margin-top: 10px;*/
+}

@@ -1,0 +1,44 @@
+body {
+    font-size: 32px;
+}
+div p  {
+    display: inline-block;
+}
+.menu {
+    background-color: pink;
+    text-align: right;
+    padding: 0px 50px 50px 50px;
+}
+.lista-menu {
+    display: inline;
+}
+.lista-menu a {
+    text-decoration: none;
+}
+.curso-html {
+    background-color: #00dd00;
+}
+.curso-css {
+    background-color: #fdff11;
+}
+.curso-phyton {
+    background-color: #00ddd0;
+}
+.curso-bootstrap {
+    background-color: #ee00da;
+}
+.botao {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    font-size: 25px;
+    padding-top: 7px;
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+}
+#botao2 {
+    text-align: center;
+}
